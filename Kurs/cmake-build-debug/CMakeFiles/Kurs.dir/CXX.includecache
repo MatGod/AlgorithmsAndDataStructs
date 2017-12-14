@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Study/AlgorithmsAndDataStructs-master/Kurs/arr.cpp
+arr.h
+D:/Study/AlgorithmsAndDataStructs-master/Kurs/arr.h
+radix_test.h
+D:/Study/AlgorithmsAndDataStructs-master/Kurs/radix_test.h
+algorithm
+-
+iostream
+-
+
+D:/Study/AlgorithmsAndDataStructs-master/Kurs/arr.h
+
+D:/Study/AlgorithmsAndDataStructs-master/Kurs/main.cpp
+iostream
+-
+limits
+-
+time.h
+-
+arr.h
+D:/Study/AlgorithmsAndDataStructs-master/Kurs/arr.h
+
+D:/Study/AlgorithmsAndDataStructs-master/Kurs/radix_test.cpp
+radix_test.h
+D:/Study/AlgorithmsAndDataStructs-master/Kurs/radix_test.h
+
+D:/Study/AlgorithmsAndDataStructs-master/Kurs/radix_test.h
+
